@@ -6,7 +6,7 @@ const { ElementPlusResolver } = require('unplugin-vue-components/resolvers')
 
 module.exports = {
   // 1.配置方式一: CLI中提供的配置选项
-  outputDir: './build',
+  // outputDir: './build',
   publicPath: './',
   // 2.配置方式二
   configureWebpack: {
